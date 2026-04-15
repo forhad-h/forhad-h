@@ -1,5 +1,5 @@
 <h1 align="center">Forhad Hosain</h1>
-<h3 align="center">Full Stack Engineer &nbsp;·&nbsp; Agentic AI Systems &nbsp;·&nbsp; LLM Infrastructure</h3>
+<h3 align="center">Full Stack Engineer &nbsp;·&nbsp; Agentic AI Systems &nbsp;·&nbsp; LLM Integration</h3>
 
 <p align="center">
   <a href="mailto:forhad19s@gmail.com"><img src="https://img.shields.io/badge/Email-forhad19s%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 <br/>
 
-Production-proven engineer with **6+ years** building SaaS products and AI infrastructure. Most recently a core developer at **SmythOS / INK Content, Inc.** — an agentic AI runtime platform competing with LangChain and AutoGen — shipping production agents across cloud, local, and edge. Hands-on across the full AI stack: LLM provider integrations, streaming, structured output, thinking models, tool calling, RAG, MCP, and multi-modal pipelines.
+Production-proven engineer with **6+ years** building SaaS products and AI integrations. Most recently a core developer at **SmythOS / INK Content, Inc.** — an agentic AI runtime platform competing with LangChain and AutoGen — shipping production agents across cloud, local, and edge. Hands-on across the full AI stack: LLM provider integrations, streaming, structured output, thinking models, tool calling, RAG, MCP, and multi-modal pipelines.
 
 ---
 
@@ -32,13 +32,7 @@ Production-proven engineer with **6+ years** building SaaS products and AI infra
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forhad-hosain&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhad-hosain&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
-</p>
+All production work lives on my SmythOS work account — commit history and merged PRs are independently verifiable: **[github.com/forhad-hosain](https://github.com/forhad-hosain)**
 
 ---
 
